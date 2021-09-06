@@ -9,5 +9,5 @@ public class Bftp1SpringbootTravisCiKataApplication {
     public static void main(String[] args) {
         SpringApplication.run(Bftp1SpringbootTravisCiKataApplication.class, args);
     }
-//traviskata
+
 }
